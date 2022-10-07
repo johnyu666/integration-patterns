@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5f3aaaa-5b50-4995-9e84-43e58a2e320c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/mq-demo/readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/mq-demo/readme.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty-demo/src/main/java/cn/johnyu/NettyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty-demo/src/main/java/cn/johnyu/NettyServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rmi-demo/src/main/java/cn/johnyu/RmiClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/rmi-demo/src/main/java/cn/johnyu/RmiClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc-demo/src/main/java/webserver/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-demo/src/main/java/webserver/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc-demo/src/main/java/xmlrpc/client/ClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc-demo/src/main/java/xmlrpc/client/ClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +136,7 @@
       <updated>1663932871809</updated>
       <workItem from="1663932873336" duration="6591000" />
       <workItem from="1664336103312" duration="2161000" />
-      <workItem from="1665108170325" duration="5177000" />
+      <workItem from="1665108170325" duration="6017000" />
     </task>
     <servers />
   </component>
