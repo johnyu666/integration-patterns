@@ -47,7 +47,7 @@ public class NettyServer {
                 });
         try {
             //同步启动服务器（在Parent线程组中）
-            bootstrap.bind(9200).sync();
+            bootstrap.bind(9000).sync();
             System.out.println("服务器已经在 9000 端口启动...");
             Thread.currentThread().join();
         } catch (Exception e) {

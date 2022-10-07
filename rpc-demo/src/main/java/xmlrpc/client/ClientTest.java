@@ -15,13 +15,13 @@ public class ClientTest {
             
             XmlRpcClient client = new XmlRpcClient();
             client.setConfig(config);
-            Object[] params = new Object[] { 32, 9 };
+            Object[] params = new Object[] { 32, 10 };
             Integer result = (Integer) client.execute("Calculator.add", params);
             System.out.printf("两数相加的结果是：%d\n",result);
             
             result = (Integer) client.execute("Calculator.subtract", params);
             System.out.printf("两数相减的结果是：%d",result);
- 
+
         } catch (XmlRpcException e) {
             e.printStackTrace();
         } catch (MalformedURLException e) {
