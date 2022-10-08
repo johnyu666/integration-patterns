@@ -1,4 +1,6 @@
-package cn.johnyu;
+package cn.johnyu.client;
+
+import cn.johnyu.common.HelloService;
 
 import java.rmi.Naming;
 

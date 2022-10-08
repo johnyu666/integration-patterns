@@ -1,4 +1,4 @@
-package cn.johnyu;
+package cn.johnyu.common;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

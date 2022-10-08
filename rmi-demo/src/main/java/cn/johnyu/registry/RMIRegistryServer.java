@@ -1,4 +1,4 @@
-package cn.johnyu;
+package cn.johnyu.registry;
 
 import java.rmi.registry.LocateRegistry;
 import java.util.Scanner;
